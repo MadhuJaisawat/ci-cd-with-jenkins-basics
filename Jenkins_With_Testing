@@ -1,0 +1,11 @@
+How Jenkins helps me as a tester:
+Jenkins can be configured to trigger automation scripts.
+It supports tools like Selenium, PyTest, and TestNG.
+Test reports can be generated automatically after execution.
+
+Steps :
+(1) Developer commits code
+(2) Jenkins triggers build
+(3) Automation tests run
+(4) Report is generated
+(5) Tester reviews results
